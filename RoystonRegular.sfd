@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1674819720
-ModificationTime: 1675514931
+ModificationTime: 1675593933
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -95,7 +95,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 100
-WinInfo: 0 14 7
+WinInfo: 0 13 6
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1157,11 +1157,9 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 33
-Width: 600
+Width: 400
 Flags: W
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uni001F
