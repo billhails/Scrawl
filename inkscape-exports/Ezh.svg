@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="310.45337"
-   height="563.23145"
-   viewBox="0 0 310.45337 563.23145"
+   width="385.13159"
+   height="867.9668"
+   viewBox="0 0 385.13159 867.9668"
    version="1.1"
    id="svg5"
    sodipodi:docname="drawings.svg"
@@ -154,16 +154,16 @@
        inkscape:locked="true" /></sodipodi:namedview><defs
      id="defs2" /><g
      inkscape:groupmode="layer"
-     id="layer14"
-     inkscape:label="GlyphLayer-ogonek"
-     style="display:inline"
-     transform="translate(-454.36371,-1116.1149)"><g
-       id="g2724"
-       transform="matrix(0.32846082,0.32846082,-0.77524416,0.77524416,1088.7359,-36.674513)"
-       inkscape:export-filename="../32bb12dd/ogonek.svg"
+     id="layer70"
+     inkscape:label="GlyphLayer-Ezh"
+     transform="translate(-348.87964,-319.30835)"><g
+       id="g3889"
+       transform="matrix(0.34637394,0.34637394,-0.72454559,0.72454559,1404.2954,186.10721)"
+       inkscape:export-filename="../ae8090b2/Yogh.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><path
-         style="fill:none;stroke:#000000;stroke-width:88.2388;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-         d="m 1182.2025,1034.0339 c -151.1339,313.2941 432.3375,449.5273 823.8243,281.6376"
-         id="path2721"
-         sodipodi:nodetypes="cc" /></g></g></svg>
+       inkscape:export-ydpi="96"
+       style="display:inline"><path
+         style="fill:none;stroke:#000000;stroke-width:84.7079;stroke-linecap:round;stroke-linejoin:round"
+         d="m -1233.0419,820.24988 c 187.6858,-89.7244 288.787,-138.05653 422.26189,-201.86511 141.71603,-67.7483 396.20417,349.80288 141.69945,471.47063 707.112935,-338.04015 1088.41453,44.5215 590.77233,282.4228"
+         id="path3887"
+         sodipodi:nodetypes="cscc" /></g></g></svg>
